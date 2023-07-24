@@ -8,7 +8,7 @@
 <h3 align="left">Hi 👋, I'm Lorenzo, a physics student who currently studies data science, but works on anything to do with computer science.</h3>
 &emsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lorycontixd!;I'm+a+learning+developer...;I'm a PASSIONATE physicist;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 -------------------
 &emsp;
@@ -17,6 +17,7 @@
 - 💡 I'm also expanding my knowledge with different languages and skills on the field.
 - 💻 I’m currently learning **Quantum computing, GPU computing and cloud services**.
 - 📱 I like web, app and game development.
+
 
 
 - ⚽️ I love all kinds of sports, but I absolutely adore football and tennis.
@@ -31,29 +32,14 @@
 
 
 &emsp;
-<a href="https://www.linkedin.com/in/berkeli/">
-    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/lorenzo-conti-1691281b8/">
+    ![Linkedin: Lorenzo Conti](https://img.shields.io/badge/-lorenzoconti-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
-<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
-    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+<a href="https://github.com/lorycontixd">
+    ![GitHub: berkeli](https://img.shields.io/github/followers/lorycontixd?label=follow&style=social)
 </a>
-<a href="https://www.instagram.com/halmyradov/">
-    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/berkeli">
-    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
-</a>
-<a href="https://stackoverflow.com/users/14958897/berkeli">
-    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
-</a>
-<a href="https://www.codewars.com/users/BerkeliH">
-    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
-</a>
-<a href="https://www.leetcode.com/berkeli/">
-    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
-</a>
-<a href="https://codepen.io/berkeli">
-    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+<a href="https://stackoverflow.com/users/12056979/lc05">
+    ![StackOverflow: lorycontixd](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
 </a>
 
 &emsp;
@@ -63,8 +49,7 @@
 ### Programming languages:
 &emsp;
 ![.NET](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
