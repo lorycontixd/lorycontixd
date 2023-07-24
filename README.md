@@ -8,7 +8,7 @@
 <h3 align="left">Hi 👋, I'm Lorenzo, a physics student who currently studies data science, but works on anything to do with computer science.</h3>
 &emsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lorycontixd!;I'm+a+learning+developer...;I'm a PASSIONATE physicist;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lorycontixd!;I'm+a+learning+developer...;I'm+a+PASSIONATE+physicist;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 -------------------
 &emsp;
