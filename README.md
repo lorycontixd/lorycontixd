@@ -1,84 +1,129 @@
-# Hi there, I'm Lorenzo - aka [lorycontixd][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+<h1 align="center">Hi 👋, I'm Lorenzo</h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img src="https://tenor.com/en-GB/view/work-computer-typing-busy-gif-17302654" align="center" alt="header image">
 
-## I'm a Physics student specializing in data analysis
 
-- 👨‍💻 I’m currently working on application and game development using C# and Python.
-- 📚 I’m currently learning everything about data analysis and machine learning. 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play football, tennis as well as guitar and piano. I also love traveling. 🎱.
+-------------------
+&emsp;
+<h3 align="left">Hi 👋, I'm Lorenzo, a physics student who currently studies data science, but works on anything to do with computer science.</h3>
+&emsp;
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+-------------------
+&emsp;
 
-### Spotify Playing 🎧
+- 📚 I’m currently finishing my studies for my university.
+- 💡 I'm also expanding my knowledge with different languages and skills on the field.
+- 💻 I’m currently learning **Quantum computing, GPU computing and cloud services**.
+- 📱 I like web, app and game development.
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/loryconti1)
 
----
+- ⚽️ I love all kinds of sports, but I absolutely adore football and tennis.
+- 🎼 I like to play the guitar and the piano (classical pieces).
+- 🎬 Harry Potter & Star Wars fan.
+- 🔭 I love astrophysics and observing the universe with my telescope.
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+&emsp;
 
-### Contact me 📝
+## Me around the web:
+-------------------
 
-[![GitHub] (https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorycontixd)
-[![Linkedin] (https://github.com/lorycontixd)](https://www.linkedin.com/in/lorenzo-conti-1691281b8)
-[![Reddit] (https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12056979/lc05)
-[![Spotify](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://open.spotify.com/user/loryconti1)
-<br />
 
----
+&emsp;
+<a href="https://www.linkedin.com/in/berkeli/">
+    ![Linkedin: berkeli](https://img.shields.io/badge/-berkeli-blue?style=flat-square&logo=Linkedin&logoColor=white)
+</a>
+<a href="https://twitter.com/intent/follow?screen_name=halmyradov">
+    ![Twitter: halmyradov](https://img.shields.io/twitter/follow/halmyradov?style=social)
+</a>
+<a href="https://www.instagram.com/halmyradov/">
+    ![Instagram: halmyradov](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a>
+<a href="https://github.com/berkeli">
+    ![GitHub: berkeli](https://img.shields.io/github/followers/berkeli?label=follow&style=social)
+</a>
+<a href="https://stackoverflow.com/users/14958897/berkeli">
+    ![StackOverflow: berkeli](https://img.shields.io/stackexchange/stackoverflow/r/14958897?style=social)
+</a>
+<a href="https://www.codewars.com/users/BerkeliH">
+    ![CodeWars: BerkeliH](https://www.codewars.com/users/BerkeliH/badges/small)
+</a>
+<a href="https://www.leetcode.com/berkeli/">
+    ![LeetCode: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=LeetCode)
+</a>
+<a href="https://codepen.io/berkeli">
+    ![CodePen: berkeli](https://img.shields.io/badge/-berkeli-000?&logo=CodePen)
+</a>
 
-### Languages and Tools 🛠 
+&emsp;
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![.NET](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+### Misc tools:
+&emsp;
+![Arduino](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Overleaf](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-<br/>
+### Databases:
+&emsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorycontixd&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorycontixd&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-
----
-
-### ⭐️ From [lorycontixd](https://github.com/lorycontixd) ### 
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 
+&emsp;
 
-----
-Credit: [Bgstatic](https://github.com/lorycontixd)
+## 📈 My GitHub Stats and Activity
 
-Last Edited on: 24/07/2023
+### 💻 Profile Stats
+
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/?username=lorycontixd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Lorycontixd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorycontixd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+
+### 🔥 Streak Stats
+
+![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=lorycontixd&theme=tokyonight)
+
+### 📊 Contribution Stats
+
+<img alt="My Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=lorycontixd&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
+------
+Credit: [Berkeli](https://github.com/lorycontixd)
+Last Edited on: 25/07/2023
