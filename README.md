@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 
-<img src="https://tenor.com/en-GB/view/work-computer-typing-busy-gif-17302654" align="center" alt="header image">
+<img src="header_image.png" align="center" alt="header image">
 
 
 -------------------
